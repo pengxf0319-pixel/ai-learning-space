@@ -1,2 +1,2 @@
-# ai-room
+# ai-learning-space
 daily ai tools
